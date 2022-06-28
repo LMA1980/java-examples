@@ -1,0 +1,6 @@
+[submodule "basic-picocli/picocli-runtime-example"]
+	path = basic-picocli/picocli-runtime-example
+	url = git@github.com:LMA1980/picocli-runtime-example.git
+[submodule "basic-picocli/picocli-jlink-example"]
+	path = basic-picocli/picocli-jlink-example
+	url = git@github.com:LMA1980/picocli-jlink-example.git
